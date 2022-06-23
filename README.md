@@ -71,4 +71,3 @@ I'm very passionate about creating highly efficient and elegant software, I beli
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedBenTaher)](https://github.com/MohamedBenTaher/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBenTaher&layout=compact)](https://github.com/MohamedBenTaher)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.MohamedBenTaher)]
