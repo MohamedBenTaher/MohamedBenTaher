@@ -1,62 +1,63 @@
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
-</p>
-![banner](https://user-images.githubusercontent.com/65641001/175342092-cdcbb927-0919-425a-bab7-63441dacaffd.png)
+
+
+![banner(1)](https://user-images.githubusercontent.com/65641001/175343488-56b82036-fde9-420b-942c-34a7ec537da0.png)
 
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+Hello I'm Mohamed Ben Taher</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+I'm a Full-Stack Web Developer 💻
 </h2> 
-
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
-
+<p align="center">
+I'm very passionate about creating highly efficient and elegant software, I believe in constant improvement and delivering hight quality products and services to clients
+</p>
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://www.linkedin.com/in/mohamed-ben-taher/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/m.bentaher1/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Mohamed Ben Taher| Instagram" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
-- My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
+- Some Learning Projects 
+- Hotel Reservation System using GraphQL
+- Social Media Application Using NestJs,React,TypeORM
+- NextJS Dashboard
+- Competetive programming problems
 
 ## 🌱 I'm currently learning
 
 - 📱 React Native
-- Firebase
-- React Context API
-- Styled Components  
+- NextJS
+- GraphQl
+- SEO
 
 ## 💼 Technical Skills
-
+![](https://img.shields.io/badge/Code-React-native-informational?style=flat&logo=react&color=003B57)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Cplusplus&color=CC342D)
+![](https://img.shields.io/badge/Code-Nest-informational?style=flat&logo=NestJS&color=CC0000)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-
-</br>
-
+![](https://img.shields.io/badge/Code-Material%20ui-informational?style=flat&logo=Mui&color=003B57)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=003B57)
+![](https://img.shields.io/badge/Code-java-informational?style=flat&logo=java&color=003B57)
+![](https://img.shields.io/badge/Code-php-informational?style=flat&logo=php&color=003B57)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=003B57)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&color=003B57)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&color=003B57)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
+![](https://img.shields.io/badge/Code-swagger-informational?style=flat&logo=swagger&color=003B57)
+![](https://img.shields.io/badge/Code-mongoDB-informational?style=flat&logo=mongoDB&color=003B57)
+![](https://img.shields.io/badge/Code-typeORM-informational?style=flat&logo=typeorm&color=003B57)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
-
-
-</br>
-
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
@@ -64,17 +65,10 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-## 📝 Latest Blog Posts
-
-- [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
-- [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
-- [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
-- [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedBenTaher)](https://github.com/MohamedBenTaher/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBenTaher&layout=compact)](https://github.com/MohamedBenTaher)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.MohamedBenTaher)](https://www.yushi.dev/)
