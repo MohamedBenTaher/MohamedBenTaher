@@ -1,6 +1,7 @@
 
 
-![banner(1)](https://user-images.githubusercontent.com/65641001/175343488-56b82036-fde9-420b-942c-34a7ec537da0.png)
+
+![banner(3)](https://user-images.githubusercontent.com/65641001/175495870-882bbc8c-9e9b-4f5f-8c19-fab2c6ddf60b.png)
 
 
 <h3 align="center">
@@ -34,8 +35,10 @@ I'm very passionate about creating highly efficient and elegant software, I beli
 - NextJS
 - GraphQl
 - SEO
+- MicroSerivces
 
 ## 💼 Technical Skills
+![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![](https://img.shields.io/badge/Code-React-native-informational?style=flat&logo=react&color=003B57)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
@@ -64,10 +67,12 @@ I'm very passionate about creating highly efficient and elegant software, I beli
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-Uml-informational?style=flat&logo=Uml&color=181717)
 
 
 ## 📈 GitHub Stats 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedBenTaher)](https://github.com/MohamedBenTaher/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBenTaher&layout=compact)](https://github.com/MohamedBenTaher)
-
+<br/>
+![](https://komarev.com/ghpvc/?username=your-github-MohamedBenTaher)
