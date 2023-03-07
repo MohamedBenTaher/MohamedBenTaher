@@ -14,7 +14,7 @@ I'm a Full-Stack Web Developer 💻
 <p align="center">
 I'm very passionate about creating highly efficient and elegant software, I believe in constant improvement and delivering hight quality products and services to clients
 </p>
-### 🤝 Connect with me:
+## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/mohamed-ben-taher/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/m.bentaher1/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Mohamed Ben Taher| Instagram" width="21px"/></a>
