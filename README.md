@@ -71,9 +71,13 @@ I'm very passionate about creating highly efficient and elegant software, I beli
 ![](https://img.shields.io/badge/Tools-Uml-informational?style=flat&logo=Uml&color=181717)
 
 
-## 📈 GitHub Stats 
+## 🏆 *Github Status*
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedBenTaher)](https://github.com/MohamedBenTaher/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBenTaher&layout=compact)](https://github.com/MohamedBenTaher)
+<img  src="https://github-readme-stats.vercel.app/api?username=MohamedBenTaher&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedBenTaher&theme=dark" width="48%" >
+<br>
+<div align="center">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBenTaher&theme=dark&layout=compact"/>
+</div>
 <br/>
-![](https://komarev.com/ghpvc/?username=your-github-MohamedBenTaher)
+![Visitor Count](https://komarev.com/ghpvc/?username=MohamedbBenTaher&layout=flat)
