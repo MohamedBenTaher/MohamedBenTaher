@@ -69,7 +69,7 @@ I'm very passionate about creating highly efficient and elegant software, I beli
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-Uml-informational?style=flat&logo=Uml&color=181717)
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=MohamedBenTaher.visitor-badge&left_text=My%20Page%20Visitors) 
 
 ## 🏆 *Github Status*
 
@@ -79,5 +79,13 @@ I'm very passionate about creating highly efficient and elegant software, I beli
 <div align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBenTaher&theme=dark&layout=compact"/>
 </div>
-<br/>
-![Visitor Count](https://komarev.com/ghpvc/?username=MohamedbBenTaher&layout=flat)
+<br>
+
+
+<br>
+<div align='center'>
+  
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=MohamedBenTaher.visitor-badge&left_text=My%20Page%20Visitors) 
+  
+</div>
+
